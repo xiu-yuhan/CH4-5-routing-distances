@@ -1,6 +1,6 @@
 Programming: Routing Distances
-Elvin Lin J00711222
-Mr.Hampton
+
+
 CSC 311
 
 
